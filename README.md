@@ -3,14 +3,11 @@
 # Requiments
    * python 3.5
    * django 3.0
-
-
  # screenshots 
-   
-   
+    
    
 # Installation Procedure
-1.clone project in your machine
+1. clone project in your machine
 2. python3 -m venv Ecom
 3. workon Ecom
 4. pip install Django==3.0
