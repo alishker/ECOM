@@ -3,7 +3,15 @@
 # Requiments
    * python 3.5
    * django 3.0
- # screenshots 
+ ## Functions
+### Admin
+// work of admin here
+
+### overall products
+// how it works add edit delete update
+
+### Payment
+// payment procedure
     
    
 # Installation Procedure
